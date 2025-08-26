@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse;
+}
+
+table, th,td{
+    border: 1px solid black;
+}
+
+td{
+    padding: 10px;
+}
+
+.icon-demo{
+    font-size: 40px;
+    color: red;
+}
+
+.lista{
+    list-style-type: circle;
+}
